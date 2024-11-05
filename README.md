@@ -9,7 +9,6 @@ EasyBank is a desktop banking application developed in Java, integrating a SQL d
 4. Getting Started
 5. Usage
 6. Configuration
-7. Contact
 
 ## **1. Overview**
 
